@@ -10,6 +10,7 @@ all:
 	make mov.c
 	make swbug.c
 	make lnall
+	make -f slip/Makefile all
 
 *.c:
 	$(CC) $_

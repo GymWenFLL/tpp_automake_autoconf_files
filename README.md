@@ -1,3 +1,3 @@
-# tpp_automake_autoconf_files
+# tpp_autotool
 
-autoconf / -make files to handle the building process
+Automatic Build/Install Files. For Use with make.

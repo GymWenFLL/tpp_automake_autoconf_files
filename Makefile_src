@@ -1,0 +1,4 @@
+all:
+	make -f fw/Makefile all
+	make -f lib/Makefile all
+	make -f software/Makefile all

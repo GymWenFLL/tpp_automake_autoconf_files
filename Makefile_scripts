@@ -1,0 +1,2 @@
+all:
+	cp conn.sh ../../out/conn.sh
